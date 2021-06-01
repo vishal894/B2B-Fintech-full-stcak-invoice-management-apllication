@@ -30,7 +30,7 @@ Finally , linear regression was the algorithm which I used to train my  ML model
 
 ![image](https://user-images.githubusercontent.com/63975935/120331837-d1644c80-c30b-11eb-92b5-fe92cbd775ae.png)
 
-![image](https://user-images.githubusercontent.com/63975935/120331910-e04aff00-c30b-11eb-891b-f4100e65194f.png)   <html> &nbsp  &nbsp </html> ![image](https://user-images.githubusercontent.com/63975935/120331966-eb059400-c30b-11eb-80d1-64ba4df58cc1.png)
+![image](https://user-images.githubusercontent.com/63975935/120331910-e04aff00-c30b-11eb-891b-f4100e65194f.png)   <html> </html> ![image](https://user-images.githubusercontent.com/63975935/120331966-eb059400-c30b-11eb-80d1-64ba4df58cc1.png)
 
 ![image](https://user-images.githubusercontent.com/63975935/120332415-594a5680-c30c-11eb-8d30-17f562bd2045.png)
 
@@ -40,14 +40,28 @@ Finally , linear regression was the algorithm which I used to train my  ML model
 ![image](https://user-images.githubusercontent.com/63975935/120332830-be9e4780-c30c-11eb-81cc-0e754d71e885.png)
 
 # ADD BUTTON DIALOG BOX
-![image](https://user-images.githubusercontent.com/63975935/120332970-e097ca00-c30c-11eb-8b65-47af10a5090d.png)
+![image](https://user-images.githubusercontent.com/63975935/120333836-b7c40480-c30d-11eb-8717-f28308026546.png)
 
 # EDIT BUTTON DIALOG BOX
-![image](https://user-images.githubusercontent.com/63975935/120333066-f5745d80-c30c-11eb-8f1d-a5ae65eea5dd.png)
+![image](https://user-images.githubusercontent.com/63975935/120333789-abd84280-c30d-11eb-85e4-e67b74f6f4a9.png)
 
 # DELETE BUTTON DIALOG BOX
-![image](https://user-images.githubusercontent.com/63975935/120333250-22287500-c30d-11eb-9a58-400d4a7e6f6c.png)
+![image](https://user-images.githubusercontent.com/63975935/120333724-9c58f980-c30d-11eb-9257-ee94ba4272c2.png)
 
+# View Correspondence
+![image](https://user-images.githubusercontent.com/63975935/120333678-8ea37400-c30d-11eb-8bae-fc314a2395e4.png)
+
+# View correspondence 2
+![image](https://user-images.githubusercontent.com/63975935/120333944-d32f0f80-c30d-11eb-90fb-9c7ba7a4746b.png)
+
+
+# PredictButtonFunctionality:
+The Predict button will remain in disabled state if no rows are selected.
+Whenever one or more rows are selected, the Predict button will be activated.
+After clicking on the Predict button, the Predicted Payment Date and Predicted AgingBucket will be populated for the respective records.
+
+
+In this project, I have built an AI-Enabled FinTech B2B Order Management Application using regression model to predict payment of order will be delayed or not. The accuracy of the model turned out to be 85%. The same has been then deployed using Flask Framework and React JS for frontend.
 
 
 
