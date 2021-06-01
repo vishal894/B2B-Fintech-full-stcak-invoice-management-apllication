@@ -37,7 +37,7 @@ Finally , linear regression was the algorithm which I used to train my  ML model
 
 # A snapshot of the final UI made by me to visualize the data is shown below:
 
-![image](https://user-images.githubusercontent.com/63975935/120332830-be9e4780-c30c-11eb-81cc-0e754d71e885.png)
+![image](https://user-images.githubusercontent.com/63975935/120334373-3456e300-c30e-11eb-8964-4d7ad9a0fab6.png)
 
 # ADD BUTTON DIALOG BOX
 ![image](https://user-images.githubusercontent.com/63975935/120333836-b7c40480-c30d-11eb-8717-f28308026546.png)
@@ -60,7 +60,7 @@ The Predict button will remain in disabled state if no rows are selected.
 Whenever one or more rows are selected, the Predict button will be activated.
 After clicking on the Predict button, the Predicted Payment Date and Predicted AgingBucket will be populated for the respective records.
 
-
+# Conclusion
 In this project, I have built an AI-Enabled FinTech B2B Order Management Application using regression model to predict payment of order will be delayed or not. The accuracy of the model turned out to be 85%. The same has been then deployed using Flask Framework and React JS for frontend.
 
 
