@@ -1,0 +1,442 @@
+.container {
+  margin-left: 30px;
+  margin-top: 22px;
+}
+.container2 {
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.InvoiceList {
+  top: 380px;
+  left: 30px;
+  width: 141px;
+  height: 31px;
+  text-align: left;
+  font: normal normal normal 28px/32px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.ABCClientLogo {
+  /* margin-left: 30px; */
+  float: left;
+  top: 20px;
+  left: 30px;
+  width: 311px;
+  height: 50px;
+  background-color: #cd7925;
+  background: transparent url("../assets/Group 20399.svg") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.HRCHostLogo {
+  margin: auto;
+  top: 22px;
+  left: 843px;
+  width: 235px;
+  height: 50px;
+  background: transparent url("../assets/logo.svg") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.GridPanel {
+  /* top: 161px;
+  left: 30px;
+  width: 1800px;
+  height: 709px;
+  margin: 30px;
+  background: #273D49CC 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  padding : 30px;
+  opacity: 1; */
+  /* margin-left : 30px; 
+    margin-top : 30px; */
+  top: 161px;
+  left: 30px;
+  /* width: 100vw; */
+  height: 100vh;
+  margin: 30px;
+  background: #273d49cc 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  padding: 30px;
+  opacity: 1;
+  /* display: flex; */
+}
+.predictbutton {
+  width: 106px;
+  height: 45px;
+  background: #14aff1 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  border-color: #14aff1;
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  /* opacity: 1; */
+}
+.viewcorrespondancebutton {
+  /* display: inline-block; */
+  margin-left: 20px;
+  width: 237px;
+  height: 45px;
+  border: 1px solid #14aff1;
+  /* border-color: #14AFF1; */
+  border-radius: 10px;
+  background: #273d49cc 0% 0% no-repeat padding-box;
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+}
+.addbutton {
+  /* display: inline; */
+  /* display: initial; */
+  /* display: inline-block; */
+  margin-left: 713px;
+  width: 99px;
+  height: 45px;
+  /* padding: 11px 20px 11px 20px; */
+  border: 1px solid #14aff1;
+  border-radius: 10px;
+  background: #273d49cc 0% 0% no-repeat padding-box;
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  /* opacity: 1; */
+}
+.editbutton {
+  margin-left: 20px;
+  width: 102px;
+  height: 45px;
+  border: 1px solid #97a1a9;
+  border-radius: 10px;
+  background: #273d49cc 0% 0% no-repeat padding-box;
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0px;
+  color: #97a1a9;
+  /* opacity: 1; */
+}
+.deletebutton {
+  margin-left: 20px;
+  width: 123px;
+  height: 45px;
+  border: 1px solid #14aff1;
+  background: #273d49cc 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  /* opacity: 1; */
+}
+.searchinvoice {
+  margin-left: 20px;
+  /* padding: 2px 4px; */
+  width: 316px;
+  height: 21px;
+  display: flex;
+  padding: 12px 12px 12px 12px;
+  /* float: left; */
+  align-items: center;
+  background: #283a46 0% 0% no-repeat padding-box;
+  color: #283a46;
+  /* background: #273D49CC 0% 0% no-repeat padding-box; */
+  border: 1 px solid #356680;
+  border-radius: 10px;
+  opacity: 1;
+}
+.innersearchtext {
+  margin-left: theme-spacing(1);
+  flex: 1;
+  font: normal normal normal 18px/21px Ubuntu;
+  letter-spacing: 0%;
+  color: #97a1a9;
+  opacity: 1;
+  width: max-content;
+}
+.searchicon {
+  /* float: right; */
+  /* position: inherit; */
+  display: flex;
+  padding: 0%;
+  opacity: 1;
+  background: #283a46 0% 0% no-repeat padding-box;
+  color: #97a1a9;
+  /* //float: right; */
+
+  /* width: 32px;
+  height: 32px;
+  border: 0%; */
+}
+.abovegrid {
+  display: flex;
+  padding: 0%;
+  margin: 0%;
+}
+.font {
+  /* top: 309px;
+  left: 770px; */
+  margin-left: 60px;
+
+  width: 400px;
+  height: 75px;
+  text-align: center;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.notes {
+  /* top: 309px;
+  left: 1640px;
+  width: 184px;
+  height: 23px; */
+  text-align: center;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  /* float: right; */
+}
+.pridict {
+  /* top: 309px;
+  left: 1376px;
+  width: 12px;
+  height: 23px; */
+  text-align: center;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.due {
+  /* top: 309px;
+  left: 1640px;
+  width: 184px;
+  height: 23px; */
+  text-align: center;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.name {
+  /* top: 309px;
+  left: 121px;
+  width: 128px;
+  height: 23px; */
+  padding-left: 20px;
+  text-align: center;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.head {
+  /* width: 131px; */
+  /* height: 20px; */
+  text-align: center;
+  font: normal normal normal 18px/21px Ubuntu;
+  letter-spacing: 0px;
+  color: #97a1a9;
+  opacity: 1;
+}
+tr:nth-child(even) {
+  background: #283a46 0% 0% no-repeat padding-box;
+}
+.tablebody {
+  width: max-content;
+  display: inline-block;
+  left: 30px;
+  width: 100vw;
+  margin: inherit;
+}
+.check {
+  width: 16px;
+  height: 16px;
+  color: #929799;
+  border-radius: 3px;
+  opacity: 1;
+}
+.tab {
+  padding-top: 20px;
+}
+.stick {
+  position: -webkit-sticky;
+  position: sticky;
+  padding-left: 20px;
+}
+.box {
+  padding-left: 10px;
+}
+.add {
+  text-align: left;
+  font: normal normal normal 28px/32px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  /* text-transform: capitalize; */
+  opacity: 1;
+}
+.add1 {
+  font-size: 20px;
+}
+.star {
+  color: #ff5b5b;
+}
+.addbtn {
+  top: 651px;
+  left: 1406px;
+  width: 77px;
+  height: 45px;
+  background: #14aff1 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.clrbtn {
+  top: 651px;
+  left: 1294px;
+  width: 87px;
+  height: 45px;
+  border: 1px solid #14aff1;
+  border-radius: 10px;
+  background: #273d49cc 0% 0% no-repeat padding-box;
+  opacity: 1;
+  text-align: center;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.can {
+  top: 662px;
+  left: 458px;
+  width: 60px;
+  height: 23px;
+  text-align: center;
+  background: #273d49cc;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0px;
+  color: #14aff1;
+  opacity: 1;
+}
+.text1 {
+  top: 332px;
+  left: 620px;
+  width: 300px;
+  height: 45px;
+  background: #283a46 0% 0% no-repeat padding-box;
+  border: 1px solid #356680;
+  border-radius: 10px;
+  opacity: 1;
+}
+.text2 {
+  top: 405px;
+  left: 620px;
+  width: 300px;
+  height: 45px;
+  background: #283a46 0% 0% no-repeat padding-box;
+  border: 1px solid #356680;
+  border-radius: 10px;
+  opacity: 1;
+}
+.text3 {
+  top: 478px;
+  left: 620px;
+  width: 300px;
+  height: 45px;
+  background: #283a46 0% 0% no-repeat padding-box;
+  border: 1px solid #356680;
+  border-radius: 10px;
+  opacity: 1;
+}
+.text4 {
+  top: 551px;
+  left: 620px;
+  width: 300px;
+  height: 45px;
+  background: #283a46 0% 0% no-repeat padding-box;
+  border: 1px solid #356680;
+  border-radius: 10px;
+  opacity: 1;
+}
+.noteadd {
+  top: 405px;
+  left: 1183px;
+  width: 300px;
+  height: 191px;
+  background: #283a46 0% 0% no-repeat padding-box;
+  border: 1px solid #356680;
+  border-radius: 10px;
+  opacity: 1;
+}
+.notelable {
+  top: 416px;
+  left: 1000px;
+  width: 55px;
+  height: 23px;
+  text-align: left;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0.19px;
+  color: #97a1a9;
+  opacity: 1;
+}
+.cls {
+  top: 244px;
+  left: 1459px;
+  width: 24px;
+  height: 24px;
+  background: 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.down {
+  top: 774px;
+  left: 1678px;
+  width: 132px;
+  height: 45px;
+  background: #14aff1 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 1;
+  text-align: center;
+  font-size: 15px;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.clevu {
+  top: 774px;
+  left: 1678px;
+  width: 132px;
+  height: 45px;
+  border: 1px solid #14aff1;
+  border-radius: 10px;
+  background: #273d49cc 0% 0% no-repeat padding-box;
+  opacity: 1;
+  text-align: center;
+  font-size: 15px;
+  font: normal normal normal 20px/24px Ubuntu;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.typo {
+  top: 205px;
+  left: 110px;
+  width: 1544px;
+  height: 247px;
+  text-align: left;
+  font: normal normal normal 20px/28px Ubuntu;
+  letter-spacing: 0.36px;
+  opacity: 1;
+}

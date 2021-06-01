@@ -1,0 +1,74 @@
+  .form{
+    margin-left:20px;
+    background-color: #273D49CC; 
+    border-bottom:1px solid;
+    border-color:#273D49CC;
+    width: 1240px;
+    height:50px;
+  } 
+   .rightfloaters{
+    left :25px;
+  }
+  .leftfloater{
+margin-left:50px;
+  }
+  
+  .date{
+    left:35px;
+  
+  }
+  
+  .rightfloater{
+    left :34px;
+    top:8px;
+  }
+  
+  .righters{
+   margin-left:50px;
+  }
+  .leftfloater
+  {
+    margin-left:50px;
+  }
+  /*
+  .lefters{
+    left:60px;
+  } */
+  .dialog{
+    background-color: #2A3E4C; 
+  }
+  .button{
+    background-color: #2A3E4C;
+  
+  }
+  .add{
+    color:#FFFFFF;
+  }
+  .btn {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .deletebutton{
+    color:#FFFFFF;
+  }
+ .typo{
+  background-color: #2A3E4C; 
+ }
+ .inner{
+     margin-top: 10%;
+   color:#b6adad;
+   text-align: center;
+ }
+ .cancel{
+   color:rgb(75, 178, 182);
+ }
+
+ 
+ .RB{
+      
+    margin-left: 60;
+}
