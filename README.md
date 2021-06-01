@@ -16,15 +16,11 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# The objective of my project is to  build a Machine Learning Model to predict the payment date of an invoice when it
+gets created in the system. Categorize the invoice into different aging buckets based on predicted payment date. Finally, the predicted payment dates and necessary data is displayed on a Web Application . This web application helps a company to visualize the entire data.
+The motivation of our project is to help businesses to keep track of payment dates in an organized and efficient manner.
+In this project the different technologies used are:
+Different types of ML models to first predict the payment dates of various companies like Linear regression, Multiple regression, Logistic Regression etc.
+For the front end development I used React js 
+For Backend development Java was used to create the servlets to perform various CRUD operations on the given data. 
+MySql  database has been used to store the data.
