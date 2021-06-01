@@ -30,5 +30,7 @@ Finally , linear regression was the algorithm which I used to train my  ML model
 
 ![image](https://user-images.githubusercontent.com/63975935/120331837-d1644c80-c30b-11eb-92b5-fe92cbd775ae.png)
 
-![image](https://user-images.githubusercontent.com/63975935/120331910-e04aff00-c30b-11eb-891b-f4100e65194f.png)            <br> <br> ![image](https://user-images.githubusercontent.com/63975935/120331966-eb059400-c30b-11eb-80d1-64ba4df58cc1.png)
+![image](https://user-images.githubusercontent.com/63975935/120331910-e04aff00-c30b-11eb-891b-f4100e65194f.png)    &nbsp  &nbsp  &nbsp &nbsp &nbsp ![image](https://user-images.githubusercontent.com/63975935/120331966-eb059400-c30b-11eb-80d1-64ba4df58cc1.png)
+
+![image](https://user-images.githubusercontent.com/63975935/120332415-594a5680-c30c-11eb-8d30-17f562bd2045.png)
 
