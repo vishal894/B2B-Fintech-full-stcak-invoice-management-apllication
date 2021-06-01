@@ -21,3 +21,9 @@ In this project the different technologies used are:
    .For the front end development I used React js 
    .For Backend development Java was used to create the servlets to perform various CRUD operations on the given data. 
    .MySql  database has been used to store the data.
+
+
+![image](https://user-images.githubusercontent.com/63975935/120331837-d1644c80-c30b-11eb-92b5-fe92cbd775ae.png)
+
+![image](https://user-images.githubusercontent.com/63975935/120331910-e04aff00-c30b-11eb-891b-f4100e65194f.png)        ![image](https://user-images.githubusercontent.com/63975935/120331966-eb059400-c30b-11eb-80d1-64ba4df58cc1.png)
+
