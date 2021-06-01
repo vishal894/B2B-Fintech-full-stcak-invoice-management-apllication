@@ -30,7 +30,25 @@ Finally , linear regression was the algorithm which I used to train my  ML model
 
 ![image](https://user-images.githubusercontent.com/63975935/120331837-d1644c80-c30b-11eb-92b5-fe92cbd775ae.png)
 
-![image](https://user-images.githubusercontent.com/63975935/120331910-e04aff00-c30b-11eb-891b-f4100e65194f.png)    &nbsp  &nbsp  &nbsp &nbsp &nbsp ![image](https://user-images.githubusercontent.com/63975935/120331966-eb059400-c30b-11eb-80d1-64ba4df58cc1.png)
+![image](https://user-images.githubusercontent.com/63975935/120331910-e04aff00-c30b-11eb-891b-f4100e65194f.png)   <html> &nbsp  &nbsp </html> ![image](https://user-images.githubusercontent.com/63975935/120331966-eb059400-c30b-11eb-80d1-64ba4df58cc1.png)
 
 ![image](https://user-images.githubusercontent.com/63975935/120332415-594a5680-c30c-11eb-8d30-17f562bd2045.png)
+
+
+# A snapshot of the final UI made by me to visualize the data is shown below:
+
+![image](https://user-images.githubusercontent.com/63975935/120332830-be9e4780-c30c-11eb-81cc-0e754d71e885.png)
+
+# ADD BUTTON DIALOG BOX
+![image](https://user-images.githubusercontent.com/63975935/120332970-e097ca00-c30c-11eb-8b65-47af10a5090d.png)
+
+# EDIT BUTTON DIALOG BOX
+![image](https://user-images.githubusercontent.com/63975935/120333066-f5745d80-c30c-11eb-8f1d-a5ae65eea5dd.png)
+
+# DELETE BUTTON DIALOG BOX
+![image](https://user-images.githubusercontent.com/63975935/120333250-22287500-c30d-11eb-9a58-400d4a7e6f6c.png)
+
+
+
+
 
